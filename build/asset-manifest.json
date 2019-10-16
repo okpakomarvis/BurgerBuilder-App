@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d4a5e638.chunk.css",
+    "main.js": "/static/js/main.a3d56d43.chunk.js",
+    "main.js.map": "/static/js/main.a3d56d43.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.b78bfed9.js",
+    "runtime~main.js.map": "/static/js/runtime~main.b78bfed9.js.map",
+    "static/js/2.9f82f144.chunk.js": "/static/js/2.9f82f144.chunk.js",
+    "static/js/2.9f82f144.chunk.js.map": "/static/js/2.9f82f144.chunk.js.map",
+    "static/css/3.5e51c0ad.chunk.css": "/static/css/3.5e51c0ad.chunk.css",
+    "static/js/3.90d48c49.chunk.js": "/static/js/3.90d48c49.chunk.js",
+    "static/js/3.90d48c49.chunk.js.map": "/static/js/3.90d48c49.chunk.js.map",
+    "static/css/4.783a6c9b.chunk.css": "/static/css/4.783a6c9b.chunk.css",
+    "static/js/4.bfa85669.chunk.js": "/static/js/4.bfa85669.chunk.js",
+    "static/js/4.bfa85669.chunk.js.map": "/static/js/4.bfa85669.chunk.js.map",
+    "static/css/5.3f06fc33.chunk.css": "/static/css/5.3f06fc33.chunk.css",
+    "static/js/5.c96a2983.chunk.js": "/static/js/5.c96a2983.chunk.js",
+    "static/js/5.c96a2983.chunk.js.map": "/static/js/5.c96a2983.chunk.js.map",
+    "static/css/6.3c736b40.chunk.css": "/static/css/6.3c736b40.chunk.css",
+    "static/js/6.e7a4fadf.chunk.js": "/static/js/6.e7a4fadf.chunk.js",
+    "static/js/6.e7a4fadf.chunk.js.map": "/static/js/6.e7a4fadf.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.721f9c33cd88402d9aba2f6c573e2366.js": "/precache-manifest.721f9c33cd88402d9aba2f6c573e2366.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/3.5e51c0ad.chunk.css.map": "/static/css/3.5e51c0ad.chunk.css.map",
+    "static/css/4.783a6c9b.chunk.css.map": "/static/css/4.783a6c9b.chunk.css.map",
+    "static/css/5.3f06fc33.chunk.css.map": "/static/css/5.3f06fc33.chunk.css.map",
+    "static/css/6.3c736b40.chunk.css.map": "/static/css/6.3c736b40.chunk.css.map",
+    "static/css/main.d4a5e638.chunk.css.map": "/static/css/main.d4a5e638.chunk.css.map",
+    "static/media/27.1burger-logo.png.png": "/static/media/27.1burger-logo.png.b8503d26.png"
+  }
+}
